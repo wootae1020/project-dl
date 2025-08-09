@@ -119,7 +119,7 @@ project-subway-congestion/
 ## 프로젝트 문서
 
 * [프로젝트 기획서](results/dl_project_proposal.pdf)
-* [프로젝트 보고서](results/dl_project_report.pdf)
+* [프레젠테이션](results/dl_project_presentation.pdf)
 
 ---
 
