@@ -124,3 +124,7 @@ project-subway-congestion/
 ---
 
 [← Project 972로 돌아가기](https://github.com/wootae1020/project972)
+
+---
+
+* **프로젝트 확장:** [기상 기반 지하철 혼잡도 예측](https://github.com/wootae1020/weather-big-data-competition)
