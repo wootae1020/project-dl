@@ -116,4 +116,11 @@ project-subway-congestion/
 
 ---
 
+## 프로젝트 문서
+
+* [프로젝트 기획서](results/dl_project_proposal.pdf)
+* [프로젝트 보고서](results/dl_project_report.pdf)
+
+---
+
 [← Project 972로 돌아가기](https://github.com/wootae1020/project972)
