@@ -116,5 +116,4 @@ project-subway-congestion/
 
 ---
 
-
-이대로 마크다운 버전으로 만들어 드릴까요?
+[← Project 972로 돌아가기](https://github.com/wootae1020/project972)
